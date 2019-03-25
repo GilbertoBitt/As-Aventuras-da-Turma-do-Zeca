@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 31aed3fcfb23dcc4bac186e0fc4753bd
+timeCreated: 1498841920
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AR_personagens__grid_0
+    21300002: AR_personagens__grid_1
+    21300004: AR_personagens__grid_2
+    21300006: AR_personagens__grid_3
+    21300008: AR_personagens__grid_6
+    21300010: AR_personagens__grid_7
+    21300012: AR_personagens__grid_9
+    21300014: AR_personagens__grid_10
+    21300016: AR_personagens__grid_12
+    21300018: AR_personagens__grid_14
+    21300020: AR_personagens__grid_15
+    21300022: AR_personagens__grid_16
+    21300024: AR_personagens__grid_17
+    21300026: AR_personagens__grid_19
+    21300028: AR_personagens__grid_20
+    21300030: AR_personagens__grid_21
+    21300032: AR_personagens__grid_22
+    21300034: AR_personagens__grid_24
+    21300036: AR_personagens__grid_25
+    21300038: AR_personagens__grid_27
+    21300040: AR_personagens__grid_28
+    21300042: AR_personagens__grid_30
+    21300044: AR_personagens__grid_31
+    21300046: AR_personagens__grid_32
+    21300048: AR_personagens__grid_4
+    21300050: AR_personagens__grid_5
+    21300052: AR_personagens__grid_8
+    21300054: AR_personagens__grid_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AR_personagens__grid_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 533
+        width: 195
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 755
+        width: 101
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 387
+        width: 186
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 414
+        width: 236
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 725
+        width: 106
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_7
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 701
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 623
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 581
+        width: 105
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 599
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 319
+        width: 161
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 436
+        width: 151
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_16
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 491
+        width: 85
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_17
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 410
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 180
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 329
+        width: 104
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_21
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 132
+        width: 220
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 177
+        width: 117
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 313
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 155
+        width: 99
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 10
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_28
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 84
+        width: 154
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_31
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1
+        width: 169
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_32
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1
+        width: 163
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 756
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 560
+        width: 69
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_8
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 653
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_personagens__grid_11
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 330
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

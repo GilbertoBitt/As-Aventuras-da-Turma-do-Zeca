@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 5dcb450bb79523645bd025f322b45d78
+timeCreated: 1502209649
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zeca_olhosA
+    21300002: zeca_sobran
+    21300004: zeca_cabeca
+    21300006: zeca_olhos
+    21300008: zeca_olhosF
+    21300010: zeca_01_8
+    21300012: zeca_tronco
+    21300014: zeca_bocaA
+    21300016: zeca_BocaF
+    21300018: zeca_cintura
+    21300020: zeca_braco1
+    21300022: zeca_01_14
+    21300024: zeca_braco2
+    21300026: Zeca
+    21300028: zeca_01_17
+    21300030: zeca_01_18
+    21300032: zeca_perna1
+    21300034: zeca_perna2
+    21300036: zeca_01_21
+    21300038: zeca_anteBraco2
+    21300040: zeca_01_23
+    21300042: zeca_anteBraco1
+    21300044: zeca_01_25
+    21300046: zeca_01_26
+    21300048: zeca_canela1
+    21300050: zeca_canela2
+    21300052: zeca_01_29
+    21300054: zeca_maoF1
+    21300056: zeca_maoF2
+    21300058: zeca_01_32
+    21300060: zeca_01_33
+    21300062: zeca_maoA2
+    21300064: zeca_maoA1
+    21300066: zeca_pe1
+    21300068: zeca_pe2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zeca_olhosA
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1788
+        width: 254
+        height: 123
+      alignment: 9
+      pivot: {x: 0.52952754, y: 0.5081301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_sobran
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1847
+        width: 257
+        height: 74
+      alignment: 9
+      pivot: {x: 0.56031126, y: 0.44594595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_cabeca
+      rect:
+        serializedVersion: 2
+        x: 99.999985
+        y: 1374
+        width: 438
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_olhos
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1673
+        width: 186
+        height: 71
+      alignment: 9
+      pivot: {x: 0.55376345, y: 0.48591548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_olhosF
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1687
+        width: 262
+        height: 98
+      alignment: 9
+      pivot: {x: 0.54389316, y: 0.45408162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_tronco
+      rect:
+        serializedVersion: 2
+        x: 742.5596
+        y: 1332.2562
+        width: 207
+        height: 351.7583
+      alignment: 9
+      pivot: {x: 0.482804, y: 0.5920082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_bocaA
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1548
+        width: 131
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_BocaF
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1377
+        width: 158
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_cintura
+      rect:
+        serializedVersion: 2
+        x: 748.42456
+        y: 1131
+        width: 201.13385
+        height: 186.58643
+      alignment: 9
+      pivot: {x: 0.5000423, y: 0.46895158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_braco1
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1013.00006
+        width: 116
+        height: 173.99994
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.51149404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_braco2
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1031
+        width: 129
+        height: 182
+      alignment: 9
+      pivot: {x: 0.6085271, y: 0.5082418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zeca
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 113
+        width: 489
+        height: 1012
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_perna1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 832
+        width: 110
+        height: 145
+      alignment: 9
+      pivot: {x: 0.35454544, y: 0.43448275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_perna2
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 833
+        width: 100
+        height: 133
+      alignment: 9
+      pivot: {x: 0.685, y: 0.5488722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_anteBraco2
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 849
+        width: 88
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6193182, y: 0.47252747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_anteBraco1
+      rect:
+        serializedVersion: 2
+        x: 1168.5555
+        y: 814.66656
+        width: 68
+        height: 107.33356
+      alignment: 9
+      pivot: {x: 0.4844773, y: 0.49223596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_canela1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 514
+        width: 114
+        height: 141.3457
+      alignment: 9
+      pivot: {x: 0.004385965, y: 0.39619175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_canela2
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 521
+        width: 103
+        height: 135
+      alignment: 9
+      pivot: {x: 0.80582523, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_maoF1
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 556
+        width: 107
+        height: 113
+      alignment: 9
+      pivot: {x: 0.55607474, y: 0.50884956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_maoF2
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 560
+        width: 107
+        height: 113
+      alignment: 9
+      pivot: {x: 0.56542057, y: 0.48672566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_maoA2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 379
+        width: 159
+        height: 133
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.48872182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_maoA1
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 353
+        width: 140
+        height: 130
+      alignment: 9
+      pivot: {x: 0.50357145, y: 0.49615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_pe1
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 165
+        width: 196
+        height: 105
+      alignment: 9
+      pivot: {x: 0.53316325, y: 0.4761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zeca_pe2
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 175
+        width: 196
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46683672, y: 0.52475244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 98448803937409
+  assetBundleName: 
+  assetBundleVariant: 

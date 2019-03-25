@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 730c8446ee977fe4fa0d0226fec4fa60
+timeCreated: 1499194390
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AR_montanha_soldado_0
+    21300002: AR_montanha_soldado_1
+    21300004: AR_montanha_soldado_2
+    21300006: AR_montanha_soldado_3
+    21300008: AR_montanha_soldado_4
+    21300010: AR_montanha_soldado_5
+    21300012: AR_montanha_soldado_6
+    21300014: AR_montanha_soldado_7
+    21300016: AR_montanha_soldado_9
+    21300018: AR_montanha_soldado_10
+    21300020: AR_montanha_soldado_12
+    21300022: AR_montanha_soldado_13
+    21300024: AR_montanha_soldado_14
+    21300026: AR_montanha_soldado_15
+    21300028: AR_montanha_soldado_16
+    21300030: AR_montanha_soldado_17
+    21300032: AR_montanha_soldado_8
+    21300034: AR_montanha_soldado_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AR_montanha_soldado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316.0297
+        width: 103.57528
+        height: 133.9703
+      alignment: 9
+      pivot: {x: 0.4923955, y: 0.51481783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 379
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 328
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_3
+      rect:
+        serializedVersion: 2
+        x: 98.00001
+        y: 350
+        width: 73.99999
+        height: 30
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_4
+      rect:
+        serializedVersion: 2
+        x: 99.100006
+        y: 331.50003
+        width: 45.600067
+        height: 22.699982
+      alignment: 9
+      pivot: {x: 0.52412194, y: 0.4625541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 326.55276
+        width: 30.278732
+        height: 29
+      alignment: 9
+      pivot: {x: 0.64401644, y: 0.5154219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_6
+      rect:
+        serializedVersion: 2
+        x: 8.567738
+        y: 205
+        width: 103
+        height: 122
+      alignment: 9
+      pivot: {x: 0.48477924, y: 0.4754098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_7
+      rect:
+        serializedVersion: 2
+        x: 105.404755
+        y: 260.5818
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48725697, y: 0.49889478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_9
+      rect:
+        serializedVersion: 2
+        x: 102.76934
+        y: 186.582
+        width: 83.00001
+        height: 84
+      alignment: 9
+      pivot: {x: 0.49675488, y: 0.49307144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_10
+      rect:
+        serializedVersion: 2
+        x: 183.11174
+        y: 180.48045
+        width: 83.000015
+        height: 91.000015
+      alignment: 9
+      pivot: {x: 0.48660544, y: 0.5221927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 157
+        width: 83
+        height: 51
+      alignment: 9
+      pivot: {x: 0.46385542, y: 0.4901961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 113
+        width: 91
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_14
+      rect:
+        serializedVersion: 2
+        x: 185.19331
+        y: 108.62666
+        width: 85.80669
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5163547, y: 0.54611117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 164
+      alignment: 9
+      pivot: {x: 0.45588234, y: 0.47865853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_16
+      rect:
+        serializedVersion: 2
+        x: 59.61444
+        y: 4.7977676
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984942, y: 0.49813896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: -0.27979755, y: 3.1867237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_8
+      rect:
+        serializedVersion: 2
+        x: 166.56581
+        y: 260.35764
+        width: 73
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5196464, y: 0.50192386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR_montanha_soldado_11
+      rect:
+        serializedVersion: 2
+        x: 180.49998
+        y: 29
+        width: 90.500015
+        height: 84
+      alignment: 9
+      pivot: {x: 0.48618796, y: 0.44642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98251201873148
+  assetBundleName: 
+  assetBundleVariant: 
